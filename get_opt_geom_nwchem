@@ -1,0 +1,14 @@
+#!/bin/bash 
+
+# This code permit to get the optimize geometry from a nwchem calculation. In this case we get the geom from the {molecule}.tpss.*.out
+
+liste=`cat liste_metal`
+liste1=`cat liste_Au`
+liste2=`cat liste_Hf`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
+liste1=`cat liste_Au`
